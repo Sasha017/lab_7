@@ -1,0 +1,3 @@
+manufacturer,  price ,  fireResistance, dateOfManufacture,  matherial,temperatureResistance ,waterCapacityGal, price = 12 manufacturer = Sasha fireResistance = 34 dateOfManufacture = 22 matherial = PAPER,temperatureResistance= 23,waterCapacityGal=45
+manufacturer,  price ,  fireResistance, dateOfManufacture,  matherial,strenght ,weightCapacityKg, price = 132 manufacturer = Shvachek fireResistance = 304 dateOfManufacture = 212 matherial = WOOD,strenght= 23,weightCapacityKg=425
+manufacturer,  price ,  fireResistance, dateOfManufacture,  matherial,temperatureResistance ,waterCapacityGal, price = 50 manufacturer = Yuriy fireResistance = 33 dateOfManufacture = 122 matherial = PLASTIC,temperatureResistance= 24,waterCapacityGal=350
